@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    decisiontree (0.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  decisiontree
+
+BUNDLED WITH
+   1.12.5
